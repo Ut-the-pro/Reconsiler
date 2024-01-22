@@ -26,7 +26,9 @@ To understand Reconciliation fully we need we need to understand
 ## What is DOM(Document Object Model)?
 
 DOM in simple words is a TREE like structure in which  the logical structure of documents and the way a document is accessed and manipulated is defined.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png" width=50% height=50%>
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png" width=50% height=50%>
+</center>
 
 From the above image we can see there is a structure in which the browser gets access to the element and  while writing code you also have to maintain this hierarchy.
 
